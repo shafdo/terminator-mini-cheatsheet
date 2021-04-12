@@ -36,10 +36,12 @@
 |F11|Full screen.|
 
 ## 🔷 Resizing
-* Ctrl+Shift+Right : Resize pane right.
-* Ctrl+Shift+Left : Resize pane left.
-* Ctrl+Shift+Up : Resize pane up.
-* Ctrl+Shift+Down : Resize pane down.
+|Command|Description|
+|-|-|
+|Ctrl+Shift+Right|Resize pane right.|
+|Ctrl+Shift+Left|Resize pane left.|
+|Ctrl+Shift+Up|Resize pane up.|
+|Ctrl+Shift+Down|Resize pane down.|
 
 ## 🔷 Rotating
 |Command|Description|

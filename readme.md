@@ -1,4 +1,4 @@
-# Terminator
+# Terminator Mini Cheatsheet
 ## 🔷 Working with panes
 * **Ctrl+S​hift+O**	: Split terminals Horizo​ntally.
 * **Ctrl+S​hift+E**	: Split terminals Vertic​ally.

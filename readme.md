@@ -1,4 +1,4 @@
-# Terminator
+# Terminator Mini Cheatsheet
 ## 🔷 Working with panes
 |Command|Description|
 |-|-|
